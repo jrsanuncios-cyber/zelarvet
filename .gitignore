@@ -5,6 +5,9 @@ node_modules/
 dist/
 *.local
 
+# Exportes de hospedagem
+*.zip
+
 # Sistema
 .DS_Store
 Thumbs.db
